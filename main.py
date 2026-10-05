@@ -16,7 +16,7 @@ mentor = Mentor(
 # Create Course
 course = Course(
     101,
-    "Python Programming",
+    "Welcome to Python",
     mentor
 )
 
