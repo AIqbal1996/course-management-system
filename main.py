@@ -9,7 +9,7 @@ student = Student(
 
 # Create Mentor
 mentor = Mentor(
-    "Rahul",
+    "Rahulam",
     "rahul@gmail.com"
 )
 
